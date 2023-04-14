@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
   Olá, mundo! 👋🌎
-</h3>
+</h2>
 
 ##
 
