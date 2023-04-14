@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Olá, mundo! 👋🌎</strong>
+  <h3>Olá, mundo! 👋🌎</h3>
 </p>
 
 ##
