@@ -2,6 +2,7 @@
   Olá, mundo! 👋🌎
 </h2>
 
+
 <div align="center">
   <a href="https://github.com/romulobp">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=romulobp&show_icons=true&theme=dark" />
