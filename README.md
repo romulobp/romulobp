@@ -1,11 +1,14 @@
-### Olá, mundo! 👋🌎
+<p align="center">
+  ### Olá, mundo! 👋🌎
+</p>
+
 ##
 
-<div>
-<a href="https://github.com/romulobp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=romulobp&show_icons=true&theme=dark" />
-</a>
- </div>
+<div align="center">
+  <a href="https://github.com/romulobp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=romulobp&show_icons=true&theme=dark" />
+  </a>
+</div>
 
 ##
 <p align="center">
